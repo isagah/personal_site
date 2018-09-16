@@ -10,6 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+   "Digital government",
+    "ICT4D",
+   "Citizen engagement",
     "Enterprise architecture",
     "Data analytics",
   ]
@@ -34,6 +37,8 @@ weight = 5
 
 # Biography
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum urna sem, suscipit non scelerisque a, eleifend sed augue. Maecenas iaculis vehicula felis, id semper ex porttitor ac. Maecenas ac turpis vitae ante aliquet hendrerit sit amet at augue. Mauris pellentesque lectus quis tristique rhoncus. Nullam non eleifend nisi, sit amet accumsan eros. Maecenas blandit odio eget convallis commodo. Curabitur vehicula, massa eget imperdiet porta, diam nibh hendrerit tellus, nec sollicitudin arcu nisl ac felis. 
+I am a PhD candidate at [University of Koblenz-Landau in Koblenz](https://www.uni-koblenz-landau.de/en), Germany  advised by [Prof.Dr. Maria A. Wimmer](https://www.uni-koblenz-landau.de/de/koblenz/fb4/iwvi/agvinf/team/maria-wimmer). My PhD research focuses on the design of mobile applications for delivering public services. The study analyzes the existing challenges of providing government services via mobile devices and proposes a comprehensive framework for improving the design of such services while considering the complexity of government information processes. I have experiences in e-government, ICT4D and citizen engagement.
 
-Curabitur a risus vel risus tempus sollicitudin eget a quam. Nunc ac nisl vestibulum, lacinia enim sit amet, finibus mi. Nullam porta iaculis nisl, ut ornare sem dapibus quis. Vestibulum leo tellus, elementum vitae efficitur ut, vulputate quis est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin euismod vehicula sem vitae posuere. Praesent luctus, mauris eget lobortis accumsan, neque sem maximus ipsum, eu feugiat dolor leo gravida magna.
+
+
+
