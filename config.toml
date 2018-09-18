@@ -63,8 +63,8 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Tupokingwe Isagah"
-  role = "PhD scholar"
+  name = "Tupokigwe Isagah"
+  role = "PhD reseacher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -250,12 +250,7 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/tupokigwe-isagah-194425a6/"
 
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = ""
-
-  # Link to a PDF of your resume/CV from the About widget.
+    # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
   #   icon = "cv"
@@ -276,37 +271,29 @@ enableGitInfo = false
   weight = 1
 
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
-
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
-
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 2
+  name = "Projects"
+ url = "#projects"
+  weight = 3
+
+#[[menu.main]]
+  #name = "Teaching"
+  #url = "#teaching"
+  #weight = 5
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[menu.main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 3
+    weight = 4
 
 # Search.
 [params.search]

@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-   "Digital government",
+   "Digital transformation",
     "ICT4D",
    "Citizen engagement",
     "Enterprise architecture",
@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Information system"
+  course = "PhD in Information System"
   institution = "University of Koblenz-Landau, Germany"
   year = 2018
 
@@ -37,7 +37,9 @@ weight = 5
 
 # Biography
 
-I am a PhD candidate at [University of Koblenz-Landau in Koblenz](https://www.uni-koblenz-landau.de/en), Germany  advised by [Prof.Dr. Maria A. Wimmer](https://www.uni-koblenz-landau.de/de/koblenz/fb4/iwvi/agvinf/team/maria-wimmer). My PhD research focuses on the design of mobile applications for delivering public services. The study analyzes the existing challenges of providing government services via mobile devices and proposes a comprehensive framework for improving the design of such services while considering the complexity of government information processes. I have experiences in e-government, ICT4D and citizen engagement.
+I am a PhD researcher at [University of Koblenz-Landau in Koblenz](https://www.uni-koblenz-landau.de/en), Germany  advised by [Prof.Dr. Maria A. Wimmer](https://www.uni-koblenz-landau.de/de/koblenz/fb4/iwvi/agvinf/team/maria-wimmer). My Ph.D. research focuses on the design of mobile applications for delivering public services. The study analyzes the existing challenges of providing government services via mobile devices and proposes a comprehensive framework for improving the design of such services while considering the complexity of government information processes. Also, the framework takes into account the context of a country and government organization such as political, economic, managerial, etc. to design useful and sustainable services. 
+
+I have experience in designing ICT for the government, ICT4D, citizen engagement, and enterprise architecture. Also, I have basic knowledge of data analysis by using the Python programming language. 
 
 
 
