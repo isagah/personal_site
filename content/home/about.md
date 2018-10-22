@@ -11,10 +11,12 @@ weight = 5
 [interests]
   interests = [
    "Digital transformation",
-    "ICT4D",
-   "Citizen engagement",
+    "Digital government",
     "Enterprise architecture",
     "Data analytics",
+    "Citizen engagement",
+    "Requirement engineering",
+    "ICT4D",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,9 +39,12 @@ weight = 5
 
 # Biography
 
-I am a PhD researcher at [University of Koblenz-Landau in Koblenz](https://www.uni-koblenz-landau.de/en), Germany  advised by [Prof.Dr. Maria A. Wimmer](https://www.uni-koblenz-landau.de/de/koblenz/fb4/iwvi/agvinf/team/maria-wimmer). My Ph.D. research focuses on the design of mobile applications for delivering public services. The study analyzes the existing challenges of providing government services via mobile devices and proposes a comprehensive framework for improving the design of such services while considering the complexity of government information processes. Also, the framework takes into account the context of a country and government organization such as political, economic, managerial, etc. to design useful and sustainable services. 
+I am a research analyst enthusiast focused on designing information systems. I enjoy solving problems using analytical skills and design digital solutions to address challenges faced in organizations. I have skills in information systems analysis and design and competent in different methods of analysis and evaluation as well as impact assessment. Also, I have good command of design research methods, enterprise architecture frameworks and requirement engineering methods. 
 
-I have experience in designing ICT for the government, ICT4D, citizen engagement, and enterprise architecture. Also, I have basic knowledge of data analysis by using the Python programming language. 
+In my PhD research, I focused on the design of mobile applications for delivering public services. The study analyzed the existing challenges of providing government services via mobile technologies and proposes a comprehensive framework for improving the design of such services while considering the complexity of government data and information processes. Also, the framework took into account the context of a country and government organization such as political, economic, managerial, etc. to design useful and sustainable services. 
+
+
+
 
 
 
