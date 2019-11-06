@@ -14,14 +14,12 @@ weight = 5
     "Digital government",
     "Enterprise architecture",
     "Data analytics",
-    "Citizen engagement",
-    "Requirement engineering",
-    "ICT4D",
-  ]
+    "AI for social good",
+     ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Information System"
+  course = "PhD in Information System Management"
   institution = "University of Koblenz-Landau, Germany"
   year = 2018
 
@@ -39,9 +37,11 @@ weight = 5
 
 # Biography
 
-I am a research analyst enthusiast focused on designing information systems. I enjoy solving problems using analytical skills and design digital solutions to address challenges faced in organizations. I have skills in information systems analysis and design and competent in different methods of analysis and evaluation as well as impact assessment. Also, I have good command of design research methods, enterprise architecture frameworks and requirement engineering methods. 
+A research analyst enthusiast about solving complex problems using analytical skills, and deploying digital technologies to address challenges faced in organizations and communities. 
 
-In my PhD research, I focused on the design of mobile applications for delivering public services. The study analyzed the existing challenges of providing government services via mobile technologies and proposes a comprehensive framework for improving the design of such services while considering the complexity of government data and information processes. Also, the framework took into account the context of a country and government organization such as political, economic, managerial, etc. to design useful and sustainable services. 
+I am interested in public sector digital transformation. My passion is on guiding the government in the process of planning and implementing digitalitazion. I focused on the design and delivery of government services via mobile applications. The study aimed to improve the adoption and sustainability of mobile technologies in accessing public services. The goal was achieved by analyzing the existing challenges of providing government services via mobile technologies, deriving the requirements of an approach that will address the challenges, and proposing a comprehensive framework for improving the quality of services while considering the complexity of government data and information processes. Also, the framework took into account the context of a country and government organization such as political, economic, managerial, etc. to design useful and sustainable services. 
+
+Currently, I am researching the transformation of AI in Africa. I am interested in helping AI pratcitioners in Tanzania and Africa to determine factors that will contribute to AI transformation in their local context, and guiding them in the implementation process so as to promote the design of AI for social good. [Click here to participate in my ongoing survey](https://isagahaisurvey.limequery.com/745141?lang=en) and read my views on [AI implementation in Tanzania](https://medium.com/parrotai/transforming-artificial-intelligence-in-tanzania-keeping-up-with-the-world-changer-technology-dd0bfc61c3c4)
 
 
 
