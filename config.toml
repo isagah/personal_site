@@ -64,20 +64,19 @@ enableGitInfo = false
 
   # Your details.
   name = "Tupokigwe Isagah"
-  role = "Reserch Analyst-Information System Design"
+  role = "GovTech Researcher & Academician"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Koblenz", url = "https://www.uni-koblenz-landau.de/en" } ]
+  organizations = [ { name = "Mzumbe University", url = "https://www.mzumbe.ac.tz" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "tupo.isagah@gmail.com "
-  address = "Building 1 Room 1, University of Koblenz, Koblenz, 90210,Germany"
+  email = "timwalukasa@mzumbe.ac.tz"
+  address = "Building C Room no. 106, Mzumbe University - Morogoro"
   office_hours = ""
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  skype = "tupo.isagah"
+ 
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -290,10 +289,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
-    name = "CV"
-    url = "files/CV_Tupo.pdf"
-    weight = 5
+ #[[menu.main]]
+    # name = "CV"
+    # url = "files/CV_Tupo.pdf"
+    # weight = 5
 
 # Search.
 [params.search]
